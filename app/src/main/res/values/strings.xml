@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tour Bareilly</string>
+    <string name="nearby_attractions">Nearby Attractions</string>
+    <string name="popular_restaurants">Popular Restaurants</string>
+    <string name="interesting_facts">Interesting facts</string>
+    <string name="bareilly_image_description">Bareilly Image</string>
 </resources>

@@ -1,35 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
     android:orientation="vertical"
     tools:context=".MainActivity"
+    android:background="@android:color/background_light"
     android:padding="16dp">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:padding="32dp"
         android:gravity="center"
-        android:text="Nearby Attractions"
-        android:textSize="24sp"/>
+        android:padding="32dp"
+        android:id="@+id/tv_attractions"
+        android:text="@string/nearby_attractions"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textColor="@android:color/black"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:padding="32dp"
-        android:text="Popular Restaurants"
-        android:textSize="24sp" />
+        android:id="@+id/tv_restaurants"
+        android:text="@string/popular_restaurants"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textColor="@android:color/black"/>
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:padding="32dp"
-        android:text="Interesting facts"
-        android:textSize="24sp" />
+        android:id="@+id/tv_facts"
+        android:text="@string/interesting_facts"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-smallcaps"
+        android:textColor="@android:color/black"/>
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/bareilly_image_description"
+        android:src="@drawable/iv_bareilly" />
 
 </LinearLayout>
+</ScrollView>
