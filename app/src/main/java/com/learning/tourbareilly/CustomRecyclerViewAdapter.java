@@ -49,7 +49,7 @@ class CustomRecyclerViewAdapter extends RecyclerView.Adapter<CustomRecyclerViewA
     @Override
     public ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         View view = LayoutInflater.from(parent.getContext())
-                .inflate(R.layout.rv_grid_list_item, parent, false);
+                .inflate(R.layout.rv_card_item, parent, false);
         return new ViewHolder(view);
     }
 

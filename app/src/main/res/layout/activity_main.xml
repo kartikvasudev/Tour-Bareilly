@@ -23,7 +23,7 @@
         android:text="@string/nearby_attractions"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:fontFamily="sans-serif-smallcaps"
+        android:fontFamily="sans-serif-condensed-medium"
         android:textColor="@android:color/black"/>
 
     <TextView
@@ -35,7 +35,7 @@
         android:text="@string/popular_restaurants"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:fontFamily="sans-serif-smallcaps"
+        android:fontFamily="sans-serif-condensed-medium"
         android:textColor="@android:color/black"/>
 
     <TextView
@@ -47,7 +47,7 @@
         android:text="@string/interesting_facts"
         android:textSize="24sp"
         android:textStyle="bold"
-        android:fontFamily="sans-serif-smallcaps"
+        android:fontFamily="sans-serif-condensed-medium"
         android:textColor="@android:color/black"/>
 
     <ImageView

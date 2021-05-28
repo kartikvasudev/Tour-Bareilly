@@ -4,4 +4,67 @@
     <string name="popular_restaurants">Popular Restaurants</string>
     <string name="interesting_facts">Interesting facts</string>
     <string name="bareilly_image_description">Bareilly Image</string>
+
+    <!--Attractions name and descriptions start-->
+    <string name="attraction_dargah_name">Dargah E Aalahazrat Bareilly Sharif</string>
+    <string name="attraction_dargah_description">Bareilly Sharif Dargah or Dargah-e-Aala Hazrat is a Dargah
+        (tomb) or monument of Ahmed Raza Khan located in Bareilly city in the state of Uttar Pradesh, India.</string>
+    <string name="attraction_dhopa_name">Dhopeshwarnath Mandir</string>
+    <string name="attraction_dhopa_description">The temple is dedicated to Lord Dhopeshwarnath.
+        The site is the birth site of Draupadi and Dhrishtadyumna in the Mahābhārata era.
+        Both Draupadi and Dhrishtadyumna were considered to be born by the grace of Lord Shiva.
+It is located in the Sadar Bazar Bareilly Cantonment area.</string>
+    <string name="attraction_kargil_name">Kargil Chowk</string>
+    <string name="attraction_kargil_description">Kargil War or Kargil Conflict was an armed conflict between India and Pakistan that took place during
+        May to July 1999 in Kargil District of state Jammu and Kashmir.
+        This conflict is also referred as Operation Vijay.
+        Indian forces emerged victorious after pushing Pakistan army from its territory.
+        To celebrate successful completion of operation Vijay a memorial and square is made at Bareilly Cantonment.</string>
+    <string name="attraction_phoenix_name">Phoenix United Mall</string>
+    <string name="attraction_phoenix_description">The first mall of the city, Phoenix United is located in the highly developed residential catchments
+        of Bareilly in Pilbhit Bypass. Making it \'the place\' to hangout with your loved ones.</string>
+    <string name="attraction_steven_name">St Steven Church</string>
+    <string name="attraction_steven_description">St. Stephen’s Church in Bareilly Cantonment is one of the oldest churches in North India.
+        Capt, Hume an executive engineer, laid the foundation stone of the church on 7th January 1861 and the army chaplain, Rev. WG Cowie,
+        conducted the first service on 25th December 1862. The first marriage in the church was also solemnized on the same day.
+The towering and imposing structure in red brick presents a beautiful sight and has never failed to draw attention.
+        Inside, one finds intricately carved panels in ebony wood and stained glass windows.
+        It is thought that carpenters, artistes and artisans from England were employed to make them.
+        The imposing 20 feet high pipe organ is also from England. Brass and marble plaques, in memory of those who served in various British Regiments,
+        can be seen studding the walls inside the church. Both the pulpit and the baptism font are made of marble and are state of the art structures.
+        The church has a capacity of accommodating nearly a thousand persons at one time. The Church Bible dates back to MDCCCLXIII.
+        The Church is under the Agra Diocese of the Church of North India headed by the Diocesan Bishop The Rt. Rev,Dr. Prem Prakash Habil.</string>
+    <string name="attraction_funcity_name">Fun City and Boond</string>
+    <string name="attraction_funcity_description">Funcity and Boond at Pilibhit bye pass Road Bareilly are the U.P.
+        Biggest Amusement and Water park With state of art amusement rides, lush green lawns video games parlour, food plaza and open Amphitheatre.
+        The Fun City situated at Pilibhit Road Bypass, is frequently named as the best entertainment mecca in the entire of Northern India.
+        The recreation center has heaps of diversion offices like a water stop named Boond,
+        a significant number of bold rides, a thrill ride and a discotheque.</string>
+    <string name="attraction_ahichartra_name">Ahichhartra Temple</string>
+    <string name="attraction_ahichartra_description">Ahichhatra was ancient capital of North Panchala, a kingdom mentioned in Mahabharata.
+        The remains of this city has been discovered at Ramnagar, a village of Aonla Tahsil of Bareilly.
+        The excavations have brought to life a brick fortification and continuity of occupation from a period before 600 BCE to 1100 CE.</string>
+    <string name="attraction_trivati_name">Shri Trivati Nath Temple</string>
+    <string name="attraction_trivati_description">Shri Trivati Nath Temple is one of the six ancient temples dedicated to Lord Shiva.
+        It is located on the outskirts of the city of Bareilly. Lord Shiva is also called Trivati Nath.
+        According to legends, Lord Shiva or Trivati Nath prophesied that he would appear in the dream of a shepherd under the three banyan trees
+        located in the dense forest in the panchal area.</string>
+    <string name="facts_and_figures">Bareilly city is popular for many reasons due to many reasons:
+        \n \n
+        1.Bareilly is popularly through Bollywood productions for its Jhumka through its song \'Jhumka Gira Re Bareilly Ke Bazaar Mei..\'.
+         \n
+        2.Bareilly is famous in the world of fashion designing for its \'Zari Zardozi\' works and crafts like Bamboo works,Surma manufacturing,
+        Manjha patang works etc.,. \n
+        3.Bareilly also is a religiously popular destination namely for its world famous \'Ala Hazrat\'. \n
+        4.The city is referred to as \'The Nath Nagri\' for its 5 ancient shiv temples. \n
+        5.The city is the host to \'Utrainni Mela\'.\n
+        6.Bareilly’s Cantt church is an English marvel. \n
+        7.The city has umpteen number of Parks and public spaces for recreation of the residents Bareilly is famous for Katdana Moti. \n
+        8.Priyanka Chopra, Disha Patani are some celebrities of Bollywood who originate from Bareilly. \n
+        9.Bareilly is a strategic location for the Indian Airforce. \n
+    </string>
+    <string name="ghost_story">There is a sand dune called by the name of Cantt Bhootiya Teela which is said to be haunted.It is said that a holy man was irritated and tortured near this place and he cursed it with the help of a nail. The local authority set up a police station(Chowki) near the place but eventually it was shut down as the policemen were bit by a snake and people believed it was because of the spirits.Only a few people dare to visit the Teela and cross the nearby road during the night.</string>
+    <string name="jhumka">Bareilly finally got its much-awaited jhumka. Union Minister and local MP Santosh Gangwar unveiled a 14-feet high installation at the zero point on National Highway 24. \n It weighs over 200 kilograms was installed in the Parsakhera area and is embedded with colourful stones and decorated with the city\'s famous zari embroidery.</string>
+    <string name="facts_about_bly">Bareilly is a city in the northern Indian state of Uttar Pradesh, located near Ramganga. It falls under geographical region Rohilkhand. The city is 252 kms north of the state capital, Lucknow and 250 kms east of the national capital, New Delhi. It is the seventh-largest metropolis of Uttar Pradesh and the 50th-largest city of India. The city is also known as Bans-Bareilly. Although Bareilly is a production center for cane (bans) furniture, “Bans Bareilly” is not derived from the bans market; it was named for two princes: Bansaldev and Baraldev, sons of Jagat Singh Katehriya, who founded the city in 1537.</string>
+    <!--Attractions name and descriptions end-->
 </resources>
